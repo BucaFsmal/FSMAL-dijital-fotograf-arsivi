@@ -30,3 +30,20 @@
 └── ikonlar/
 ```
 Bu proje İzmir/Buca Fatih Sultan Mehmet Anadolu Lisesi için geliştirilmiştir. © 2026
+
+<div align="center">
+  <table border="0" style="border-collapse: collapse;">
+    <tr>
+      <td align="center" valign="middle" style="padding: 20px; border: 0;">
+        <a href="https://fsmal.meb.k12.tr" target="_blank">
+          <img src="ikonlar/fsmal.png" alt="FSMAL Logo" width="75">
+        </a>
+      </td>
+      <td align="center" valign="middle" style="padding: 20px; border: 0;">
+        <a href="https://gupikdev.carrd.co" target="_blank">
+          <img src="ikonlar/256162321.png" alt="Gupik Studio Logo" width="75">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
