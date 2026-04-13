@@ -1,7 +1,14 @@
 # FSMAL-dijital-fotograf-arsivi
-<img src="ikonlar/fsmal.png" alt="Okul Logosu" width="100">
+<div align="center">
+  <a href="https://fsmal.meb.k12.tr" target="_blank">
+    <img src="ikonlar/fsmal.png" alt="FSMAL Logo" width="150">
+  </a>
+  <br>
+  <b>Buca Fatih Sultan Mehmet Anadolu Lisesi Dijital Arşivi</b>
+</div>
 buca fatih sultan mehmet anadolu lisesi dijital fotoğraf arşividir.
 
+📁 Proje Klasör Yapısı (Tree View)
 ```lua
 /root **📌şu an bu klasördesiniz**
 ├── etkinlikler/ 
