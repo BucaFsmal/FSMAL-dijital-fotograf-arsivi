@@ -15,7 +15,7 @@
 │       ├── bilek_guresi/
 │       ├── futsal/
 │       └── voleybol/
-└── ikonlar/ 📌
+└── ikonlar/ 
 ```
 📌/etkinlikler
 
