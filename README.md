@@ -1,5 +1,5 @@
 # FSMAL-dijital-fotograf-arsivi
-![Okul Logosu](ikonlar/fsmal.png)
+<img src="ikonlar/fsmal.png" alt="Okul Logosu" width="150">
 buca fatih sultan mehmet anadolu lisesi dijital fotoğraf arşividir.
 
 ```lua
