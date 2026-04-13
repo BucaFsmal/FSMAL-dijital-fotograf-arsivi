@@ -1,7 +1,7 @@
 ```lua
 /root
 ├── etkinlikler/ **📌şu an bu klasördesiniz**
-|   ├── projeler/
+|   ├── geziler/
 │   │   ├── sehir_disi/
 │   │   └── sehir_ici/
 │   ├── projeler/
