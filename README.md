@@ -6,7 +6,7 @@
   <br>
   <b>Buca Fatih Sultan Mehmet Anadolu Lisesi Dijital Arşividir.</b>
 </div>
-
+  
 📁 Proje Klasör Yapısı (Tree View)
 ```lua
 /root **📌şu an bu klasördesiniz**
