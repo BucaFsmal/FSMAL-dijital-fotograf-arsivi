@@ -4,9 +4,10 @@
     <img src="ikonlar/fsmal.png" alt="FSMAL Logo" width="150">
   </a>
   <br>
-  <b>Buca Fatih Sultan Mehmet Anadolu Lisesi Dijital Arşividir.</b>
+  <b>Buca Fatih Sultan Mehmet Anadolu Lisesi Dijital Fotoğraf Arşividir.</b>
 </div>
-  
+<br>
+
 📁 Proje Klasör Yapısı (Tree View)
 ```lua
 /root **📌şu an bu klasördesiniz**
